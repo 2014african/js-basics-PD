@@ -3,4 +3,4 @@ const people = [
     name = "Emils", age = 16, isStudent = true
 
 ]
-for (console.log)
+console.log("Vāŗds: " + name + " " + "gadi: " + age + " " + "Students: " + " " + isStudent)
